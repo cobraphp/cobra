@@ -1,6 +1,6 @@
 # cobraPHP
 
-The ambiversive framework for creating consistent and lean solutions
+The pragmatic framework for creating consistent and lean solutions
 
 Work in progress.
 
